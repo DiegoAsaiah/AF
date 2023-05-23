@@ -146,6 +146,7 @@ main div.background3 {
     background-image: url(https://w.forfun.com/fetch/9d/9d8c42f3c9ef9e9707ec56685ab482d8.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top;
     background-attachment: fixed;
 }
 
