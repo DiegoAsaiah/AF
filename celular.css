@@ -1,0 +1,78 @@
+
+
+header {
+display: flex;
+margin: 20px auto;
+height: 200px;
+width: 80%;
+background-image: url(https://cinepop.com.br/wp-content/uploads/2021/11/animais-fantasticos-e-onde-habitam.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+background-position: top;
+background-attachment: fixed;
+border-radius: 10px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+header a {
+display: block;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 9px;
+padding: 5px;
+color: #36b5ff;
+margin: 160px 0px 0px 0px;
+background-color: rgba(0, 0, 0, 0.704);
+text-align: center;
+text-decoration: none;
+}
+
+nav {
+    margin: -20px 0px 0px 0px;
+    display: flex;
+    position: sticky;
+    top: -1px;
+    background-color: black;
+}
+
+nav a {
+    padding: 10px;
+    color: #36b5ff;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+main div.iframe {
+    margin: 0px 0px 0px 10px;
+    padding: 100px 0px 100px 0px;
+}
+
+iframe {
+    height: 250px;
+    width: 400px;
+    box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.382);
+}
+
+main div.background1 { 
+    background-image: url(https://www.rodandoplanetagamer.com/wp-content/uploads/2016/11/Animais-Fantásticos-e1479583126942.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    box-shadow: inset 0px 8px 10px 2px rgba(0, 0, 0, 0.455);
+}
+
+main div.background2 {
+    background-image: url(https://poltronanerd.com.br/wp-content/uploads/2020/11/Animais-Fantasticos-3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 0px 8px 10px 2px rgba(0, 0, 0, 0.455) ;
+}
+
+main div.background3 {
+    background-image: url(https://w.forfun.com/fetch/9d/9d8c42f3c9ef9e9707ec56685ab482d8.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 0px 8px 10px 2px rgba(0, 0, 0, 0.455) ;
+}
