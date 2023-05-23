@@ -84,3 +84,18 @@ iframe {
     box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.382);
 }
 
+footer .fim {
+    background-color: #b34404;
+    border-top: 2px solid #ff985c;
+    padding: 5px 250px 5px 250px;
+    justify-content: center;
+ }
+ 
+ footer img {
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    background-color: black;
+ }
+

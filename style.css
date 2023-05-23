@@ -149,6 +149,36 @@ main div.background3 {
     background-attachment: fixed;
 }
 
+footer .fim {
+    display: flex;
+    background-color: #b34404;
+    border-top: 2px solid #ff985c;
+    padding: 5px 450px 5px 450px;
+    justify-content: center;
+ }
+ 
+ footer img {
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    background-color: black;
+ }
+ 
+ footer a {
+    color: #0e0e3a;
+    text-decoration: none;
+ }
+ 
+ .fim a:hover {
+       color: #141429;
+       text-decoration: none;
+       background-color: rgb(251, 251, 251);
+       padding: 2px 2px 0px 2px;
+       border-radius: 50px;  
+       transition-duration: 0.2s; 
+ }
+
 
 
 

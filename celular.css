@@ -80,6 +80,21 @@ main h2 {
 }
 
 main p.sinopse {
-    padding: 0px 20px 0px 20px;
+    padding: 0px 50px 0px 50px;
     margin: 0px 0px 10px 0px;
 }
+
+footer .fim {
+    background-color: #b34404;
+    border-top: 2px solid #ff985c;
+    padding: 5px 25px 5px 25px;
+    justify-content: center;
+ }
+ 
+ footer img {
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    background-color: black;
+ }
